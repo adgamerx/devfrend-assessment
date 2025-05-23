@@ -94,7 +94,7 @@ const Contact = () => {
                     <Textarea
                       id="message"
                       placeholder="Tell us about your specific requirements"
-                      className="border-barber-gray/30 focus:border-barber-gold min-h-[120px]"
+                      className="border-barber-gray/30 focus:border-barber-gold min-h-[230px]"
                     />
                   </div>
 
